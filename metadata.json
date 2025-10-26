@@ -1,0 +1,7 @@
+{
+  "name": "EchoSelf – A Digital Twin of Your Mind",
+  "description": "An application that builds a digital twin of your personality by learning your thoughts and tone through chat and voice. It enables conversations with your 'Future Self' and 'Mirror Self' using adaptive AI models.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
